@@ -6,3 +6,4 @@ node_modules/
 *.log
 build/
 .env
+*.tmp

@@ -70,3 +70,4 @@ Notes and usage details for categorized-websites.
 - add a note about the defaults
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
